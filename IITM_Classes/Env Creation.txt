@@ -1,0 +1,19 @@
+1. Create an environment (using conda)
+
+   conda create -n demoenv
+
+for windows
+   python -m venv demoenv_qa
+
+2.Activate the environment
+
+   conda activate demoenv
+
+for windows
+   demoenv_qa\Scripts\activate
+
+
+3. Move to project folder
+   cd /d D:\Invoices\Emeritus\IIT\Demo
+
+4. Create requirements.txt
